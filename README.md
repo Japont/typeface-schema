@@ -6,7 +6,7 @@
 
 - [v0.0.1]
   - `https://raw.githubusercontent.com/Japont/typeface-schema/v0.0.1/typeface#`
-- [latest] (equals v0.0.1)
+- [latest] \(equals v0.0.1)
   - `https://raw.githubusercontent.com/Japont/typeface-schema/latest/typeface#`
 
 [v0.0.1]: https://raw.githubusercontent.com/Japont/typeface-schema/v0.0.1/typeface#
