@@ -1,0 +1,27 @@
+{
+  "$schema": "https://raw.githubusercontent.com/Japont/typeface-schema/latest/typeface#",
+  "name": "mplus",
+  "family": "M+ FONTS",
+  "category": "GOTHIC",
+  "designers": [
+    "森下浩司"
+  ],
+  "website": "https://mplus-fonts.osdn.jp/about.html",
+  "sources": [
+    {
+      "url": "http://jaist.dl.osdn.jp/mplus-fonts/62344/mplus-TESTFLIGHT-062.tar.xz",
+      "files": [
+        "**/*.ttf"
+      ]
+    }
+  ],
+  "license": {
+    "type": "Mplus",
+    "files": [
+      "**/LICENSE*"
+    ]
+  },
+  "copyrights": [
+    "Copyright (C) 2002-2016 M+ FONTS PROJECT"
+  ]
+}
