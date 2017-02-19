@@ -17,8 +17,13 @@
   ],
   "license": {
     "type": "Mplus",
-    "files": [
-      "**/LICENSE*"
+    "sources": [
+      {
+        "url": "http://jaist.dl.osdn.jp/mplus-fonts/62344/mplus-TESTFLIGHT-062.tar.xz",
+        "files": [
+          "**/LICENSE*"
+        ]
+      }
     ]
   },
   "copyrights": [
