@@ -443,7 +443,11 @@
             "$ref": "#/definitions/source"
           }
         }
-      }
+      },
+      "required": [
+        "type",
+        "sources"
+      ]
     },
     "category": {
       "description": "Type of font",
