@@ -464,6 +464,11 @@
       "items": {
         "type": "string"
       }
+    },
+    "alternative": {
+      "type": "string",
+      "pattern": "^[a-z-]+$",
+      "description": "Name of alternative package"
     }
   },
   "required": [
