@@ -425,6 +425,7 @@
       "description": "Sources of font file",
       "minItems": 1,
       "items": {
+        "type": "object",
         "$ref": "#/definitions/source"
       }
     },
@@ -433,6 +434,7 @@
       "description": "LICENSE files of font",
       "properties": {
         "type": {
+          "type": "string",
           "$ref": "#/definitions/license"
         },
         "sources": {
@@ -440,6 +442,7 @@
           "description": "Sources of LICENSE file",
           "minItems": 1,
           "items": {
+            "type": "object",
             "$ref": "#/definitions/source"
           }
         }
@@ -451,6 +454,7 @@
     },
     "category": {
       "description": "Type of font",
+      "type": "string",
       "$ref": "#/definitions/category"
     },
     "copyrights": {
